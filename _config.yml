@@ -2,7 +2,8 @@ theme: minima
 title: keplers golf blog
 author: kepler
 description: documenting my journey to becoming a better golfer! 
-
+url: "https://keplerhu.github.io"
+baseurl: "/keplersgolfblog"
 plugins:
 - jekyll-include-cache
 - jekyll-remote-theme
